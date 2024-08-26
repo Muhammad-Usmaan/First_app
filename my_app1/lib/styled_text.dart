@@ -6,7 +6,7 @@ class StyledText extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return const Text(
-      "HOME.",
+      "HO ME.",
       style: TextStyle(
         color: Colors.white,
         fontWeight: FontWeight.bold,
